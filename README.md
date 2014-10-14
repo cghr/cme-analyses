@@ -1,4 +1,4 @@
 cme-analyses
 ============
 
-CME Analyses Modules
+CME Analyses Modules for CME 2.5
